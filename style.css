@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #000000;
+    color: #d1e8e2;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    display: #000000;
+    padding: 20px;
+}
+
+.page img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin-top: 20px;
+}
+
+button {
+    background-color: #1e90ff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #4682b4;
+}
+
+.page {
+    display: none; /* Esconde todas as páginas por padrão */
+}
+
+.page img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin-top: 20px;
+}
